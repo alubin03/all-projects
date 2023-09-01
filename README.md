@@ -6,13 +6,13 @@ This also positions me to provide the rigour to research and deliver appropriate
 
 ## Lab Setup
 
-I am setting up my lab enviornment to use for malware analysis, penetration testing, and secure software testing.
+I am setting up my lab enviornment to use for malware analysis, penetration testing, and secure software testing.🌐
 
 ### Tools Used:
 
-VirtualBox Installer
-Kali Linux OVA file
-Windows ISO file
+- VirtualBox Installer
+- Kali Linux OVA file
+- Windows ISO file
 
 ### What I Did
 
