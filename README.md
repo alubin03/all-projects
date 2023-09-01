@@ -17,4 +17,4 @@ Windows ISO file
 ### What I Did
 
 In this lab i set up my virtual enviornment using Virtual Box.(My Favorite). You can use other virtual Machines like VMware and Microsoft Hyper-V Manager aswell.
-((image!)https://amandalubin.tinytake.com/msc/ODYyMjAxMF8yMTk4NDkyMA)
+![image]
